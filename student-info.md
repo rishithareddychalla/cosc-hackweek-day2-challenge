@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Challa Rishitha Reddy
+- Roll Number: 2024EB01926 (BITS Pilani)
+- Section: -
+- GitHub Username: rishithareddychalla
